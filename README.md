@@ -1,0 +1,1 @@
+# Delgado-a20u-resum-activitats
