@@ -32,42 +32,42 @@ A19U - Activitat 19: Servidor web windows
 
 Act. A19U - Preg. A.: Què vaig fer a l'activitat?
 
-Act. A19U - Resp. A.:
+Act. A19U - Resp. A.: Instalar i configurar un servidor web
 
 Act. A19U - Preg. B.: Aquesta és la nota que crec que em mereixo.
 
-Act. A19U - Resp. B.:
+Act. A19U - Resp. B.: 5
 
 Act. A19U - Preg. C.: Explica detalladament perquè creus que aquesta és la nota que et mereixes.
 
-Act. A19U - Resp. c.:
+Act. A19U - Resp. c.: Perque vaig fer el treball pero no estaba molt ben fet
 
 A20J - Activitat 20: Resum activitats darreres dues UFs
 
 Act. A20J - Preg. A.: Què vaig fer a l'activitat?
 
-Act. A20J - Resp. A.:
+Act. A20J - Resp. A.: Tota la activitat
 
 Act. A20J - Preg. B.: Aquesta és la nota que crec que em mereixo.
 
-Act. A20J - Resp. B.:
+Act. A20J - Resp. B.: 8
 
 Act. A20J - Preg. C.: Explica detalladament perquè creus que aquesta és la nota que et mereixes.
 
-Act. A20J - Resp. c.:
-
+Act. A20J - Resp. c.: Perque he fet tota la activitat
+ 
 E21J - Examen, dijous 25 de maig de 2023 (20230525)
 
 A163 - Activitat 16 (3a part): Explicació de la instal·lació, la configuració del domini a Windows, com afegir els equips clients al domini.
 
 Act. A163 - Preg. A.: Què vaig fer a l'activitat?
 
-Act. A163 - Resp. A.:
+Act. A163 - Resp. A.: Explicar la instalacio
 
 Act. A163 - Preg. B.: Aquesta és la nota que crec que em mereixo.
 
-Act. A163 - Resp. B.:
+Act. A163 - Resp. B.: 6
 
 Act. A163 - Preg. C.: Explica detalladament perquè creus que aquesta és la nota que et mereixes.
 
-Act. A163 - Resp. c.:
+Act. A163 - Resp. c.: Perque nomes vaig explicar l'instalacio
